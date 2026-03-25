@@ -1,0 +1,6 @@
+python-vlc
+PySide6
+pycryptodome
+numpy
+Pillow
+opencv-python
